@@ -42,4 +42,4 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 
 4. User can delete his account as well.
 
-[product-screenshot]: ./Screenshot(38).png
+[product-screenshot]: ./screen(38).png
