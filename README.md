@@ -24,7 +24,7 @@ Bankist app is a minimal design with responsiveness and soothing design along wi
 
 ### Built With
 
-This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses webpack as module bundler and NPM as package manager.
+This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses parcel as module bundler and NPM as package manager.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://css-lang.com/)
